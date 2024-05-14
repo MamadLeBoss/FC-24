@@ -1,2 +1,85 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+{
+   "journal": {
+     "nomJournal": "FIFA Gaming News",
+     "phraseAccroche": "Votre source d'actualités et de stratégies pour les jeux vidéo FIFA",
+     "texteAppelAction": "Abonnez-vous pour ne rien manquer des dernières actualités et des conseils de jeu !",
+     "articlePrincipal": {
+       "titre": "Les nouveautés de FIFA 25 : ce que les fans peuvent attendre",
+       "description": "Découvrez les nouvelles fonctionnalités, les améliorations et les changements de gameplay à venir dans FIFA 25.",
+       "date": "25 Avril 2024",
+       "theme": "FIFA 25",
+       "image":""
+     },
+     "articles": [
+       {
+         "titre": "Guide du débutant : conseils pour bien commencer dans FIFA Ultimate Team",
+         "date": "20 Avril 2024",
+         "theme": "Ultimate Team",
+         "image":""
+       },
+       {
+         "titre": "Entretien avec un pro : stratégies et astuces pour gagner en mode Carrière",
+         "date": "15 Avril 2024",
+         "theme": "Carrière",
+         "image":""
+       },
+       {
+         "titre": "Top 10 des buts les plus spectaculaires de la semaine dans FIFA 25",
+         "date": "5 Avril 2024",
+         "theme": "Top buts",
+         "image":""
+       },
+       {
+         "titre": "Analyse : l'impact des nouvelles mises à jour de gameplay sur l'équilibre du jeu",
+         "date": "28 Mars 2024",
+         "theme": "Gameplay",
+         "image":""
+       },
+       {
+         "titre": "Les dernières rumeurs et spéculations sur FIFA Street 2025",
+         "date": "20 Mars 2024",
+         "theme": "FIFA Street",
+         "image":""
+       }
+     ],
+     "themes": [
+       {
+         "nom": "Ultimate Team",
+         "description": "Conseils, stratégies et actualités sur le mode Ultimate Team de FIFA."
+       },
+       {
+         "nom": "Carrière",
+         "description": "Guides et astuces pour réussir dans le mode Carrière de FIFA."
+       },
+       {
+         "nom": "Top buts",
+         "description": "Sélection des buts les plus spectaculaires réalisés par les joueurs dans FIFA 25."
+       },
+       {
+         "nom": "Gameplay",
+         "description": "Analyses et discussions sur les mises à jour de gameplay et leurs impacts sur l'expérience de jeu."
+       },
+       {
+         "nom": "FIFA Street",
+         "description": "Actualités et spéculations sur la série FIFA Street et ses prochaines éditions."
+       }
+     ],
+     "auteurs": [
+       {
+         "prenom": "Antoine",
+         "typeExperience": "Joueur FIFA expérimenté",
+         "presentation": "En tant que joueur FIFA passionné, je partage mes connaissances et mes conseils pour aider les autres joueurs à améliorer leur jeu."
+       },
+       {
+         "prenom": "Nadia",
+         "typeExperience": "Expert en FIFA Ultimate Team",
+         "presentation": "Avec une expérience approfondie dans FIFA Ultimate Team, je vous guide à travers les meilleures stratégies et les dernières actualités pour maximiser votre succès dans ce mode."
+       },
+       {
+         "prenom": "Lucas",
+         "typeExperience": "Journaliste spécialisé en jeux vidéo de sport",
+         "presentation": "En tant que journaliste spécialisé, je vous tiens informé des dernières nouvelles et tendances dans le monde des jeux vidéo de sport, en mettant l'accent sur FIFA."
+       }
+     ]
+   }
+ } //
